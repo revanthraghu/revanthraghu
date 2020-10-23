@@ -33,5 +33,6 @@
 
 <h2 align="center">Reach Me At</h2>
 <p align="center">
-<img src="https://img.shields.io/badge/Email-revabob%40gmail.com-D14836?style=for-the-badge&logo=gmail&link=mailto:kes.mahawar@gmail.comleft&link=mailto:kes.mahawar@gmail.comright" alt="revabob@gmail.com" />
+ <a href="mailto:revabob@gmail.com"><img src="https://img.shields.io/badge/Email-revabob%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="revabob@gmail.com" /></a>
+ <a href="https://www.linkedin.com/in/revanthraghu"><img src="https://img.shields.io/badge/LinkedIn-Revanth%20Raghu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/revanthraghu" /></a>
 </p>
