@@ -33,6 +33,5 @@
 
 <h2 align="center">Reach Me At</h2>
 <p align="center">
-<img src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" alt="email logo" height="20" width="20" /> &nbsp; revabob@gmail.com
- &nbsp; <a href="https://www.linkedin.com/in/revanthraghu/" target="_blank"><img src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" alt="linkedin logo" height="20" width="20" />&nbsp; Revanth Raghu</a> 
+<img src="https://img.shields.io/badge/Email-revabob%40gmail.com-D14836?style=for-the-badge&logo=gmail&link=mailto:kes.mahawar@gmail.comleft&link=mailto:kes.mahawar@gmail.comright" alt="revabob@gmail.com" />
 </p>
