@@ -2,7 +2,7 @@
 
 <p align="center">I am a full stack developer from <img src="https://image.flaticon.com/icons/svg/2322/2322510.svg" width="13"/> Bangalore, India. </p>
 
-<p align="center">View my portfolio at 👨‍💻 <a target="blank" href="https://revanthraghu.github.io" target="_blank">revanthraghu.github.io</a>  </p>
+<p align="center">View my portfolio at 👨‍💻 <a href="https://revanthraghu.github.io" target="_blank">revanthraghu.github.io</a>  </p>
 
  
 <p align="center">
@@ -34,5 +34,5 @@
 <h2 align="center">Reach Me At</h2>
 <p align="center">
  <a href="mailto:revabob@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
- <a target="blank" href="https://www.linkedin.com/in/revanthraghu"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+ <a href="https://www.linkedin.com/in/revanthraghu"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </p>
