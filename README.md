@@ -8,9 +8,8 @@
 <p align="center">
 <img width = "400px" src= "https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
 </p>
----
-  <p align="center">Things I Code With</p>
----
+<hr/>
+  <p align="center"><b>Things I Code With</b></p>
   <br/>
 
 <p align="center" >
@@ -24,7 +23,7 @@
 
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70">
    </p> 
-  
+  <hr/>
 <h2 align="center">Github Stats</h2>
 <p align="center">  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=revanthraghu&count_private=true&&show_icons=true&theme=dracula&count_private=true&line_height=32" alt="Revanth's github stats" />  
