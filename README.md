@@ -9,7 +9,7 @@
 <img width = "400px" src= "https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
 </p>
 
-  <p align="center"><b>Things I Code With</b></p>
+  <h4 align="center">Things I Code With</h4>
   <br/>
 
 <p align="center" >
@@ -24,14 +24,14 @@
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70">
    </p> 
   
-
+<h4 align="center">Github Stats</h4>
 <p align="center">  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=revanthraghu&count_private=true&show_icons=true" alt="Revanth's github stats" />  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=revanthraghu&count_private=true&&show_icons=true&theme=dracula&count_private=true&line_height=32" alt="Revanth's github stats" />  
   
 </p>
 
 
-<p align="center"><b>Reach Me At</b></p>
+<h4 align="center">Reach Me At</h4>
 <p align="center">
 <img src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" alt="email logo" height="20" width="20" /> revabob@gmail.com
  &nbsp; <a href="https://www.linkedin.com/in/revanthraghu/" target="_blank"><img src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" alt="linkedin logo" height="20" width="20" />Revanth Raghu</a> 
