@@ -23,14 +23,14 @@
 
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70">
    </p> 
-  
+  <br/>
 <h2 align="center">Github Stats</h2>
 <p align="center">  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=revanthraghu&count_private=true&&show_icons=true&theme=dracula&count_private=true&line_height=32" alt="Revanth's github stats" />  
   
 </p>
 
-
+<br/>
 <h2 align="center">Reach Me At</h2>
 <p align="center">
  <a href="mailto:revabob@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
