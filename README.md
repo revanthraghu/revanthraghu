@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30"/> Hi, I'm Revanth</h1>  
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1471045833/768/bigsmile.gif?1471045833" width="30"/> Hi, I'm Revanth</h1>  
 
 <p align="center">I am a full stack developer from <img src="https://image.flaticon.com/icons/svg/2322/2322510.svg" width="13"/> Bangalore, India. </p>
 
