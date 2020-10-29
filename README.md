@@ -23,11 +23,7 @@
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="70">
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70">
    </p> 
-  <br/>
-  
 </p>
-
-<br/>
 <h2 align="center">Reach Me At</h2>
 <p align="center">
  <a href="mailto:revabob@gmail.com"><img src="https://img.shields.io/badge/Email-revabob%40gmail.com-red?style=for-the-badge&logo=gmail"></a> 
