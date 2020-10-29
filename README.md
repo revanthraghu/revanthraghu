@@ -33,6 +33,6 @@
 <br/>
 <h2 align="center">Reach Me At</h2>
 <p align="center">
- <a href="mailto:revabob@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
- <a href="https://www.linkedin.com/in/revanthraghu"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+ <a href="mailto:revabob@gmail.com"><img src="https://img.shields.io/badge/Email-revabob%40gmail.com-red?style=for-the-badge&logo=gmail"></a> 
+ <a href="https://www.linkedin.com/in/revanthraghu"><img src="https://img.shields.io/badge/LinkedIn-revanthraghu-0077B5?style=for-the-badge&logo=linkedin"></a> 
 </p>
